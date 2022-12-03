@@ -73,5 +73,3 @@ class USDPlus:
     def totalCollateral(self):
         req = requests.get(f'https://{self.network}.overnight.fi/api/dapp/collateral/total').json()
         return req
-
-

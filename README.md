@@ -17,7 +17,7 @@ network specific to what Overnight offers
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install usdpluspy.
 
 ```bash
-pip install usdplus
+pip install usdplus==0.0.1
 ```
 
 ## Usage
